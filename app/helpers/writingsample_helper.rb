@@ -1,0 +1,2 @@
+module WritingsampleHelper
+end

@@ -1,0 +1,2 @@
+class TrunkclubController < ApplicationController
+end
